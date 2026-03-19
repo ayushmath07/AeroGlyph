@@ -4,7 +4,7 @@ Overview
 
 AeroGlyph is a Python-based simulation engine that models how a swarm of drones can form complex geometric shapes and transition between them seamlessly.
 
-Instead of hardcoding positions, this system uses mathematical distribution algorithms to dynamically compute optimal point placements for any shape — ensuring:
+Instead of hardcoding positions, this system uses mathematical distribution algorithms to dynamically compute optimal point placements for any shape ensuring:
 
 Uniform spacing
 
