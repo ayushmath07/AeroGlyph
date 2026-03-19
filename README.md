@@ -94,7 +94,7 @@ Step 3: Map closest points
 
 Step 4: Interpolate positions
 
-Result: Smooth morphing animation ✨
+Result: Smooth morphing animation 
 
  Tech Stack
 
